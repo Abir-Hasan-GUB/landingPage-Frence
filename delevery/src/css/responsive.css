@@ -1,0 +1,249 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  #mainFirstHalf #Valeurs .valueursCards {
+    width: 100%;
+  }
+  .container {
+    padding: 0 1.5rem;
+  }
+  #mainFirstHalf #banner .bannerContents {
+    display: block;
+  }
+  body .sectionTitle {
+    font-size: 3.4rem;
+    line-height: 4.5rem;
+  }
+  body .sectionTitle br {
+    display: none;
+  }
+  #mainFirstHalf #banner .bannerContents .bannerLeft {
+    width: 100%;
+    display: block;
+  }
+  #mainFirstHalf #banner .bannerContents .bannerRight {
+    padding-top: 3rem;
+    width: 100%;
+    display: block;
+    text-align: center;
+  }
+  #mainFirstHalf #banner .bannerContents .bannerRight img {
+    width: 100%;
+  }
+  #mainFirstHalf #Valeurs {
+    text-align: center;
+    padding-top: 7.1rem;
+    padding-bottom: 6.2rem;
+  }
+  #mainFirstHalf #Valeurs .valueursCards {
+    display: block;
+  }
+  #mainFirstHalf #Valeurs .valueursCards .card {
+    max-width: fit-content;
+    margin-bottom: 3rem;
+  }
+  #mainSeondHalf .arobicPartCtrl .arobicTxt .arobicTitle {
+    width: 80%;
+    margin: 0 auto;
+  }
+  #mainSeondHalf .submitForm {
+    padding: 0 1.5rem;
+  }
+  #mainSeondHalf .submitForm .submitBtn {
+    top: 0.6rem;
+    right: 2rem;
+  }
+  #footer .socialLinks {
+    padding: 0 1.5rem;
+    width: 100%;
+    display: block;
+  }
+  #footer .socialLinks a {
+    margin-right: 3rem;
+    margin-bottom: 2rem;
+    background: #356e45;
+    border-radius: 0.5rem;
+    font-weight: 400;
+    font-size: 1.2rem;
+    color: #ece8dc;
+    -webkit-border-radius: 0.5rem;
+    -moz-border-radius: 0.5rem;
+    -ms-border-radius: 0.5rem;
+    -o-border-radius: 0.5rem;
+    display: inline-block;
+    align-items: center;
+  }
+  #footer .socialLinks a:nth-child(2) {
+    margin-right: 0;
+  }
+  .tuesCommonSection .tuesTitle {
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+  }
+  body p,
+  #mainSeondHalf .arobicPartCtrl .arobicDownDetailsTxt p {
+    font-size: 2rem;
+    line-height: 2.7rem;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+  #mainFirstHalf #Valeurs .valueursCards {
+    width: 100%;
+  }
+  .container {
+    padding: 0 1.5rem;
+  }
+  #mainFirstHalf #banner .bannerContents {
+    display: block;
+  }
+  body .sectionTitle {
+    font-size: 5.4rem;
+    line-height: 4.5rem;
+  }
+  body .sectionTitle br {
+    display: none;
+  }
+  #mainFirstHalf #banner .bannerContents .bannerLeft {
+    width: 100%;
+    display: block;
+  }
+  #mainFirstHalf #banner .bannerContents .bannerRight {
+    padding-top: 3rem;
+    width: 100%;
+    display: block;
+    text-align: center;
+  }
+  #mainFirstHalf #banner .bannerContents .bannerRight img {
+    width: 100%;
+  }
+  #mainFirstHalf #Valeurs {
+    text-align: center;
+    padding-top: 7.1rem;
+    padding-bottom: 6.2rem;
+  }
+  #mainFirstHalf #Valeurs .valueursCards {
+    display: block;
+  }
+  #mainFirstHalf #Valeurs .valueursCards .card {
+    max-width: fit-content;
+    margin-bottom: 3rem;
+  }
+  body .sectionTitle {
+    font-size: 4.4rem;
+    line-height: 5.5rem;
+  }
+  body .sectionTitle br {
+    display: block;
+  }
+  #mainFirstHalf #banner .bannerContents .bannerRight img {
+    width: 60%;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  #mainFirstHalf #Valeurs .valueursCards {
+    width: 100%;
+  }
+  .container {
+    padding: 0 1.5rem;
+  }
+  #mainFirstHalf #banner .sectionTitle {
+    font-size: 5.5rem;
+  }
+  #mainFirstHalf #banner .bannerContents .bannerRight {
+    text-align: right;
+  }
+  #mainFirstHalf #banner .bannerContents .bannerRight img {
+    width: 100%;
+  }
+  #mainFirstHalf #Valeurs .valueursCards {
+    display: block;
+  }
+  #mainFirstHalf #Valeurs .valueursCards {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  #mainFirstHalf #Valeurs .valueursCards .card {
+    padding: 16px 32px;
+    gap: 16px;
+    max-width: 294px;
+    min-height: 35rem;
+    left: 165px;
+    top: 788px;
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 0px 30px 30px;
+    -webkit-border-radius: 0px 0px 30px 30px;
+    -moz-border-radius: 0px 0px 30px 30px;
+    -ms-border-radius: 0px 0px 30px 30px;
+    -o-border-radius: 0px 0px 30px 30px;
+  }
+  #mainFirstHalf #Valeurs .valueursCards .card img {
+    padding: 1.6rem 0;
+  }
+  #mainFirstHalf #Valeurs .valueursCards .card .card-title {
+    padding-bottom: 1.6rem;
+  }
+  #mainFirstHalf #Valeurs .valueursCards .card .card-title {
+    font-size: 3rem;
+    line-height: 3.5rem;
+  }
+  #mainFirstHalf #Valeurs .valueursCards .card .card-text {
+    font-size: 1.5rem;
+  }
+  body .sectionTitle br {
+    display: block;
+  }
+  body .sectionTitle {
+    line-height: 6rem;
+  }
+  #mainFirstHalf #banner .bannerContents {
+    display: flex;
+    align-items: center;
+  }
+  #mainFirstHalf #banner .bannerContents .bannerLeft {
+    width: 55%;
+    display: inline-block;
+  }
+  #mainFirstHalf #banner .bannerContents .bannerRight {
+    width: 45%;
+    display: inline-block;
+    text-align: right;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .bannerImg {
+    width: 85%;
+  }
+  #mainFirstHalf #Valeurs .valueursCards {
+    width: 105%;
+  }
+  .container {
+    padding: 0 1.5rem;
+    overflow-x: hidden;
+  }
+  #mainFirstHalf #Valeurs .valueursCards {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  #mainFirstHalf #Valeurs .valueursCards .card {
+    padding: 16px 32px;
+    gap: 16px;
+    max-width: 294px;
+    min-height: 38rem;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .container {
+    padding: 0 1.5rem;
+    overflow-x: hidden;
+  }
+}
